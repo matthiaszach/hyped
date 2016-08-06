@@ -1,3 +1,3 @@
 <?php
 
-echo "GET HYPED";
+echo "Working on GETHYPED!";
