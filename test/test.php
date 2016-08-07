@@ -1,3 +1,3 @@
 <?php
 
-echo "test/hyped";
+echo "test/hyped developing";
